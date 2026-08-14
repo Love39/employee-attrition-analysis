@@ -15,11 +15,13 @@ This project analyzes employee attrition data to identify factors associated wit
 - Attrition varied across job satisfaction levels
 
 ## Visualizations
-![Department Attrition Rate] (department_attrition_rate.png)
+![Department Attrition Rate] (department-attrition-rate.png)
 
-![Job Role Attrition] (job_role_attrition.png)
+![Job Role Attrition] (job-role-chart.png)
 
-![Job Satisfaction Attrition] (job_satisfaction.png)
+![Job Satisfaction Attrition] (job-satisfaction-chart.png)
+
+![Overtime Attrition] (overtime-chart.png)
 
 ## Business Recommendations
 - Monitor employee overtime and workload
